@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- ⚡ Fun fact: Mix Martial Arts and adrenaline junkie... Adventure may hurt but monotomy will kill you.
+
+
 <!--
 **kagisomnguni/kagisomnguni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
