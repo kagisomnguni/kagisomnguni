@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- ⚡ Fun fact: Mix Martial Arts and adrenaline junkie... Adventure may hurt but monotomy will kill you.
+- ⚡ Fun fact: Mix Martial Arts and adrenaline junkie... Adventure may hurt but monotony will kill you.
 
 ---
 
@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: Mix Martial Arts and adrenaline junkie... Adventure may hurt but monotomy will kill you.
+- ⚡ Fun fact: Mix Martial Arts and adrenaline junkie... Adventure may hurt but monotony will kill you.
 -->
